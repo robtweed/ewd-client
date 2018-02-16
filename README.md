@@ -1,4 +1,4 @@
-# ewd-client: Browser (websocket & HTTP) Client for ewd-xpress applications
+# ewd-client: Browser (websocket & HTTP/Ajax) Client for QEWD applications
  
 Rob Tweed <rtweed@mgateway.com>  
 24 February 2016, M/Gateway Developments Ltd [http://www.mgateway.com](http://www.mgateway.com)  
